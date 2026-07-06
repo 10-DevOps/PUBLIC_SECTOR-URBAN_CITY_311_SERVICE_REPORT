@@ -1,3 +1,38 @@
+### Urban-City-Service-Request
+
+Civic Pulse is a public sector data engineering and analytics initiative designed to transform New York City's 311 service request data into actionable operational intelligence.
+
+The goal is to identify the most common service requests across neighbourhoods, uncover emerging community needs, and act upon them, enabling city agencies to make faster, data-driven decisions.                                                                                   
+
+All components are containerised with Docker for easy deployment.
+
+## Data Pipeline Architecture
+![Data Pipeline Architecture](./img/pipeline%20diagram.svg)
+
+## Architecture
+
+- Data ingestion via Airflow DAGs
+- Storage in Azure Blob (Bronze/Silver layers)
+- Transformation using Python + Polars
+- Infrastructure managed with Terraform
+- Visualisation in Power BI
+
+Project Tools
+   - `Azure`
+   - `Python`
+   - `Postgres`
+   - `airflow`
+   - `Docker`
+   - `Terraform`
+   - `pgAdmin`
+   - `Power BI`
+
+
+
+
+
+
+
 Overview
 ========
 
