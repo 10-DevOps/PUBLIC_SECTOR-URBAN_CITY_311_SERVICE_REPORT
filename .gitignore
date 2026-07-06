@@ -1,15 +1,14 @@
-# Environment variables (Azure credentials)
 .env
-
-# Python virtual environment
-environ/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Editor settings
-.vscode/
-
-# OS files
-.DS_Store
+environ
+data/
+airflow_settings.yaml
+__pycache__
+plugins
+credentials.sh
+tests
+.terraform
+*.hcl
+credentials.txt
+*.tfstate
+*.backup
+*.tfvars
