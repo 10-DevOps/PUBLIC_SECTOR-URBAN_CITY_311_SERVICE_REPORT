@@ -7,7 +7,7 @@ The goal is to identify the most common service requests across neighbourhoods, 
 All components are containerised with Docker for easy deployment.
 
 ## Data Pipeline Architecture
-![Data Pipeline Architecture](./img/pipeline%20diagram.svg)
+![NYC 311 Data Engineering Pipeline - Azure Airflow Terraform](./img/urban_city.jpg)
 
 ## Architecture
 
