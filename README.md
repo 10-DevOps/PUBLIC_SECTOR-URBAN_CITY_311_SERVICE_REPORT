@@ -17,7 +17,7 @@ All components are containerised with Docker for easy deployment.
 - Infrastructure managed with Terraform
 - Visualisation in Power BI
 
-Project Tools
+## Project Tools
    - `Azure`
    - `Python`
    - `Postgres`
